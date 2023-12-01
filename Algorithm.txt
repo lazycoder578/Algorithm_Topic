@@ -1,0 +1,58 @@
+1. Arrays
+2. Time and Space Complexity
+3. Binary Search
+4. Selection Sort
+5. Bubble Sort
+6. Insertion Sort
+7. STL
+8. Pointer,Double Pointer
+9. Reference Variable, Static and Dynamic Memory
+10. Dynamic Memory Allocation of 2D Arrays
+11. Macros, Global Variables, Inline Function and Default Argument
+12. Recursion
+13. Time and Space Complexity of Recursion
+14. Object Oriented Programming(OOP)
+15. Linked List
+16. Stack
+17. Queue
+18. Binary Tree
+19. Binary Search Tree
+20. Heap
+21. HashMap
+22. Tries
+23. Backtracking
+24. Graph
+25. Dynamic Programming
+26. Greedy Algorithm
+
+
+
+
+1. 
+🔥Service based Companies:
+Language basics (Java/C++/Python)
+Arrays/2D Arrays
+Strings
+Searching & Sorting
+Linked List
+Stacks & Queues
+Trees/BST
+Basic Graph
+
+
+
+2.
+🔥Product based Companies:
+Language basics (Java/C++/Python)
+Arrays/2D Arrays
+Strings
+Searching & Sorting
+Backtracking
+Linked List
+Stacks & Queues
+Trees/BST
+Graphs
+Dynamic Programming 
+Tries
+Segment Trees (basic)
+Bit Manipulation
