@@ -56,3 +56,22 @@ Dynamic Programming
 Tries
 Segment Trees (basic)
 Bit Manipulation
+
+
+প্রথমেই যে ৭ ধরণের ডাটা স্ট্রাকচার তোমাকে শিখতেই হবে: 
+১) Arrays.
+২) Linked Lists
+৩) Stack 
+৪) Queue
+৫)Hash Tables বা Hash Map বা Dictionary: 
+৬) Tree:
+৭) Graphs
+------------
+যে ৭ ধরনের এলগরিদম তোমাকে শিখতে হবে: 
+১) Searching Algorithms
+২) Sorting Algorithms
+৩) টাইম আর স্পেস কমপ্লেক্সিটি
+৪)  Divide and Conquer Algorithms এর মধ্যে বাইনারি সার্চ, মার্জ শর্ট অন্যতম। 
+৫) Dynamic programming (DP)
+৬) Tree রিলেটেড এলগরিদম
+৭) Graph রিলেটেড এলগরিদম
